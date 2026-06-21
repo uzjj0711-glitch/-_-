@@ -20,8 +20,6 @@
 
 研究工具：
 - Python
-- NumPy
-- SciPy
 - Streamlit
 
 
@@ -31,6 +29,4 @@
 研究工具：
 
 - Python
-- NumPy
-- SciPy
 - Streamlit
