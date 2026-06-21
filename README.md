@@ -16,7 +16,7 @@
 ## Projects
 
 ## Financial Engineering Project1
-基於幾何布朗運動之歐式買權定價模擬分析
+歐式買權定價與蒙地卡羅模擬分析
 
 研究工具：
 - Python
@@ -24,7 +24,8 @@
 
 
 ### Financial Engineering Project2
-基於幾何布朗運動之歐式買權 Delta 模擬分析
+Delta敏感度分析：
+波動率、隨機種子與Moment Matching之探討
 
 研究工具：
 
