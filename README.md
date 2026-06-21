@@ -34,7 +34,7 @@ Delta敏感度分析：
 - Streamlit
 
 
-## Data_Mining_Project
+## DataMining Project
 新北市各行政區離婚比例分析
 
 研究工具:
