@@ -23,7 +23,7 @@
 - Streamlit
 
 
-### Financial Engineering Project2
+## Financial Engineering Project2
 Delta敏感度分析：
 波動率、隨機種子與Moment Matching之探討
 
@@ -31,3 +31,11 @@ Delta敏感度分析：
 
 - Python
 - Streamlit
+
+
+## Data_Mining_Project
+新北市各行政區離婚比例分析
+
+研究工具:
+
+-RapidMiner
