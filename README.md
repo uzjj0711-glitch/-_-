@@ -1,4 +1,4 @@
-# 黃薇臻 Portfolio
+# 黃薇臻-金融專題研究
 
 ## About Me
 
