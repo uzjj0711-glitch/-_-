@@ -13,14 +13,19 @@
 
 具有高度興趣。
 
----
-
 ## Projects
 
-### Financial Engineering Project
+## Financial Engineering Project1
+基於幾何布朗運動之歐式買權定價模擬分析
+研究工具：
+- Python
+- NumPy
+- SciPy
+- Streamlit
 
+
+### Financial Engineering Project2
 基於幾何布朗運動之歐式買權 Delta 模擬分析
-
 研究工具：
 
 - Python
