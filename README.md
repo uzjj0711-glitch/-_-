@@ -17,6 +17,7 @@
 
 ## Financial Engineering Project1
 基於幾何布朗運動之歐式買權定價模擬分析
+
 研究工具：
 - Python
 - NumPy
@@ -26,6 +27,7 @@
 
 ### Financial Engineering Project2
 基於幾何布朗運動之歐式買權 Delta 模擬分析
+
 研究工具：
 
 - Python
